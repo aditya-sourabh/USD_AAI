@@ -1,2 +1,2 @@
-# USD_AAI
-This repository will contain all the code for the project that we will be doing for USD MS.
+# Email Classifier
+This project aims to create an effective model to classify emails as spam (unwanted messages) or ham (legitimate messages). The model uses statistical and probabilistic methods, examining features like word frequency, specific keywords, and email metadata. The process includes collecting and preprocessing a labeled dataset, performing exploratory data analysis to understand feature distributions, and employing classification techniques such as Naive Bayes and logistic regression. The model's performance is evaluated using metrics like accuracy, precision, recall, and F1 score to ensure a reliable email filtering solution.
